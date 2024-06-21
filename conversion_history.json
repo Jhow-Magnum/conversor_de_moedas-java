@@ -1,0 +1,32 @@
+{
+  "historico": [
+    {
+      "data": "2024-06-21T00:15:56.653552400",
+      "moedaOrigem": "BRL",
+      "moedaDestino": "USD",
+      "valorOrigem": 1.0,
+      "valorConvertido": 0.1839
+    },
+    {
+      "data": "2024-06-21T00:16:24.647480500",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOrigem": 5.0,
+      "valorConvertido": 27.1255
+    },
+    {
+      "data": "2024-06-21T00:17:09.620542200",
+      "moedaOrigem": "USD",
+      "moedaDestino": "AUD",
+      "valorOrigem": 1.0,
+      "valorConvertido": 1.501
+    }
+  ],
+  "ultimaConversao": {
+    "data": "2024-06-21T00:17:09.620542200",
+    "moedaOrigem": "USD",
+    "moedaDestino": "AUD",
+    "valorOrigem": 1.0,
+    "valorConvertido": 1.501
+  }
+}
